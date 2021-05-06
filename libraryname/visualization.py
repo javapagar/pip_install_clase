@@ -52,3 +52,14 @@ def matriz_correlacion_simple(df,
 
     plt.show()
 
+# if __name__ =="__main__":
+#     dic={
+#     'nume':[1,2,3,4,5],
+#     'num':[10,203,405,4039,2],
+#     'nu':[9,8,7,6,5],
+#     'n':[10,20,10,20,12],
+#     }
+
+#     df = pd.DataFrame(dic)
+
+#     matriz_correlacion_simple(df)

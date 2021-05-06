@@ -1,7 +1,5 @@
 import pandas as pd
 import numpy as np
-import seaborn as sns
-import matplotlib.pyplot as plt
 from scipy import stats
 from sklearn import datasets
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
@@ -204,6 +202,6 @@ def applyStdScaler(X_train,X_test):
 
     return std_scale.transform(X_train), std_scale.transform(X_test)
 
-if __name__=='__main__':
-    svm = SVC()
-    print(getHyperparams(svm))
+# if __name__=='__main__':
+#     svm = SVC()
+#     print(getHyperparams(svm))
