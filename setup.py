@@ -2,10 +2,10 @@ from distutils.core import setup
 setup(
   name = 'libraryname',         # How you named your package folder (MyLib)
   packages = ['libraryname'],   # Chose the same as "name"
-  version = '0.1',      # Start with a small number and increase it with every change you make
+  version = 'v_01',      # Start with a small number and increase it with every change you make
   license='MIT',        # Chose a license from here: https://help.github.com/articles/licensing-a-repository
   description = 'TYPE YOUR DESCRIPTION HERE',   # Give a short description about your library
-  author = 'ds-e21',                   # Type in your name
+  author = 'ds-dt-e21',                   # Type in your name
   author_email = 'captainvinager@gmail.com',      # Type in your E-Mail
   url = 'https://github.com/javapagar/pip_install_clase',   # Provide either the link to your github or to your website
   download_url = 'https://github.com/javapagar/pip_install_clase/archive/refs/tags/v_01.tar.gz',    # I explain this later on
