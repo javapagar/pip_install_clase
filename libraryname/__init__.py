@@ -1,2 +1,2 @@
-from machinelearning import *
-from visualization import *
+from libraryname.machinelearning import *
+from libraryname.visualization import *
