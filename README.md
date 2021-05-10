@@ -47,7 +47,7 @@ Visualization:
 Machine learning:
 
  - [7.Function 7](#7.-Function-7)
- - [8.Function 8](#8.-Function-8
+ - [8.Function 8](#8.-Function-8)
  - [9.Function 9](#9.-Function-9)
  
 ***
