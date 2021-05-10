@@ -34,26 +34,26 @@ Clik on any link below to reed deeper:
 
 Cleaning:
 
- - [1.Function 1](#1.-Function-1)
- - [2.Function 2](#2.-Function-2)
- - [3.Function 3](#3.-Function-3)
+ - [1.Function 1](#1-Function-1)
+ - [2.Function 2](#2-Function-2)
+ - [3.Function 3](#3-Function-3)
  
 Visualization:
 
- - [4.Function 4](#4.-Function-4)
- - [5.Function 5](#5.-Function-5)
- - [6.Function 6](#6.-Function-6)
+ - [4.Function 4](#4-Function-4)
+ - [5.Function 5](#5-Function-5)
+ - [6.Function 6](#6-Function-6)
  
 Machine learning:
 
- - [7.Function 7](#7.-Function-7)
- - [8.Function 8](#8.-Function-8)
- - [9.Function 9](#9.-Function-9)
+ - [7.Function 7](#7-Function-7)
+ - [8.Function 8](#8-Function-8)
+ - [9.Function 9](#9-Function-9)
  
 ***
 
 ### Documentation
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p aling="right;" href="#index">Back to index</p></a>
 ### 1. Function 1
 This function blablabla
 #### Params:
@@ -61,7 +61,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p aling="right;" href="#index">Back to index</p></a>
 ### 2. Function 2
 This function blablabla
 #### Params:
@@ -69,7 +69,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p aling="right;" href="#index">Back to index</p></a>
 ### 3. Function 3
 This function blablabla
 #### Params:
@@ -77,7 +77,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p aling="right;" href="#index">Back to index</p></a>
 ### 4. Function 4
 This function blablabla
 #### Params:
@@ -85,7 +85,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p aling="right;" href="#index">Back to index</p></a>
 ### 5. Function 5
 This function blablabla
 #### Params:
@@ -93,7 +93,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p aling="right;" href="#index">Back to index</p></a>
 ### 6. Function 6
 This function blablabla
 #### Params:
@@ -101,7 +101,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p aling="right;" href="#index">Back to index</p></a>
 ### 7. Function 7
 This function blablabla
 #### Params:
@@ -109,7 +109,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p aling="right;" href="#index">Back to index</p></a>
 ### 8. Function 8
 This function blablabla
 #### Params:
@@ -117,7 +117,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
+<a href="#index"><p aling="right;" href="#index">Back to index</p></a>
 ### 9. Function 9
 This function blablabla
 #### Params:
