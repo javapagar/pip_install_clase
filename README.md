@@ -52,7 +52,7 @@ Machine learning:
  
 ***
 
->### Documentation
+### Documentation
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
 >### 1. Function 1
 >This function blablabla
