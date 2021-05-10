@@ -47,7 +47,7 @@ Visualization:
 Machine learning:
 
  - [7.Function 7](#7.-Function-7)
- - [8.Function 8](#8.-Function-8)
+ - [8.Function 8](#8.-Function-8
  - [9.Function 9](#9.-Function-9)
  
 ***
@@ -61,7 +61,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
-<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>Cancel changes
+<a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
 ### 2. Function 2
 This function blablabla
 #### Params:
