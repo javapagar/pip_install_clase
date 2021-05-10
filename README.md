@@ -54,77 +54,77 @@ Machine learning:
 
 ### Documentation
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
->### 1. Function 1
->This function blablabla
->#### Params:
-> - Param1: blublublu
-> - Param2: bliblibli
->#### Code Example:
->'a=1'
+### 1. Function 1
+This function blablabla
+#### Params:
+ - Param1: blublublu
+ - Param2: bliblibli
+#### Code Example:
+'a=1'
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>Cancel changes
->### 2. Function 2
->This function blablabla
->#### Params:
-> - Param1: blublublu
-> - Param2: bliblibli
->#### Code Example:
->'a=1'
+### 2. Function 2
+This function blablabla
+#### Params:
+ - Param1: blublublu
+ - Param2: bliblibli
+#### Code Example:
+'a=1'
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
->### 3. Function 3
->This function blablabla
->#### Params:
-> - Param1: blublublu
-> - Param2: bliblibli
->#### Code Example:
->'a=1'
+### 3. Function 3
+This function blablabla
+#### Params:
+ - Param1: blublublu
+ - Param2: bliblibli
+#### Code Example:
+'a=1'
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
->### 4. Function 4
->This function blablabla
->#### Params:
-> - Param1: blublublu
-> - Param2: bliblibli
->#### Code Example:
->'a=1'
+### 4. Function 4
+This function blablabla
+#### Params:
+ - Param1: blublublu
+ - Param2: bliblibli
+#### Code Example:
+'a=1'
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
->### 5. Function 5
->This function blablabla
->#### Params:
-> - Param1: blublublu
-> - Param2: bliblibli
->#### Code Example:
->'a=1'
+### 5. Function 5
+This function blablabla
+#### Params:
+ - Param1: blublublu
+ - Param2: bliblibli
+#### Code Example:
+'a=1'
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
->### 6. Function 6
->This function blablabla
->#### Params:
-> - Param1: blublublu
-> - Param2: bliblibli
->#### Code Example:
->'a=1'
+### 6. Function 6
+This function blablabla
+#### Params:
+ - Param1: blublublu
+ - Param2: bliblibli
+#### Code Example:
+'a=1'
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
->### 7. Function 7
->This function blablabla
->#### Params:
-> - Param1: blublublu
-> - Param2: bliblibli
->#### Code Example:
->'a=1'
+### 7. Function 7
+This function blablabla
+#### Params:
+ - Param1: blublublu
+ - Param2: bliblibli
+#### Code Example:
+'a=1'
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
->### 8. Function 8
->This function blablabla
->#### Params:
-> - Param1: blublublu
-> - Param2: bliblibli
->#### Code Example:
->'a=1'
+### 8. Function 8
+This function blablabla
+#### Params:
+ - Param1: blublublu
+ - Param2: bliblibli
+#### Code Example:
+'a=1'
 <a href="#index"><p style="text-align:right;" href="#index">Back to index</p></a>
->### 9. Function 9
->This function blablabla
->#### Params:
-> - Param1: blublublu
-> - Param2: bliblibli
->#### Code Example:
->'a=1'
+### 9. Function 9
+This function blablabla
+#### Params:
+ - Param1: blublublu
+ - Param2: bliblibli
+#### Code Example:
+'a=1'
 
 ***
 
