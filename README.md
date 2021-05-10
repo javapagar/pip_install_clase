@@ -30,7 +30,7 @@ In order to use this library you will need to make sure that the following libra
 ### Structure & documentation
 
 Here's a folder structure with documentation about Pythoneers functions. 
-Clik on any link below to reed deeper:
+Clik on any link below to read deeper:
 
 Cleaning:
 
