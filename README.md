@@ -53,7 +53,7 @@ Machine learning:
 ***
 
 ### Documentation
-<a href="#index"><p align="right;" href="#index">Back to index</p></a>
+<a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### 1. Function 1
 This function blablabla
 #### Params:
