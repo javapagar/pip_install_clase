@@ -4,13 +4,13 @@
 
 ## Description
 
-This library has been designed to optimize the first steps of a data science project. It contains functions that simplify data cleaning and data visualization. Mainly, Pythoneers will help you to choose the best machine learning model for your data.
+This library has been designed to optimize the first steps of a data science project. It contains functions that simplify data cleaning and data visualization. Mainly, Pythoneer will help you to choose the best machine learning model for your data.
 
 ***
 
 ## Install
 
-To install the full library write on your console: *pip install pythoneers*
+To install the full library write on your console: *pip install pythoneer*
 
 ***
 
@@ -31,7 +31,7 @@ In order to use this library you will need to make sure that the following libra
 <a name="index"></a>
 ### Structure & documentation
 
-Here's a folder structure with documentation about Pythoneers functions. 
+Here's a folder structure with documentation about Pythoneer's functions. 
 Clik on any link below to read deeper:
 
 Data cleaning:
