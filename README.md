@@ -162,7 +162,4 @@ This library has been created by Data Science students from The Bridge (Digital 
 
 
 
-
-
-
 [logo_LinkedIn]: https://static.licdn.com/scds/common/u/images/logos/favicons/v1/16x16/favicon.ico "LinkedIn"
