@@ -45,8 +45,8 @@ Visualization:
  - [degrade_color](#degrade_color)
  - [color_palette](#color_palette)
  - [pythoneer_palette](#pythoneer_palette)
- - [color_negative_red](#color_negative_red)
- - [Paleta](#Paleta)
+ - [categorical_columns](#categorical_columns)
+ - [phik_matrix_simple](#phik_matrix_simple)
  
 Machine learning:
 
@@ -109,21 +109,19 @@ Color palette predefined by the color blue ('#0879b1') and the color red ('#a61d
 #### Code Example:
 'pythoneer, pythoneer_degrade = pythoneer_palette()
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
-### 7. Function 7
-This function blablabla
+### categorical_columns
+Create a dataframe with the categorical columns.
 #### Params:
- - Param1: blublublu
- - Param2: bliblibli
+- df = dataframe.
 #### Code Example:
-'a=1'
+categorical_df = categorical_columns(df)
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
-### 7. Function 7
-This function blablabla
+### phik_matrix_simple
+Create a Phik Matrix
 #### Params:
- - Param1: blublublu
- - Param2: bliblibli
+- df = dataframe.
 #### Code Example:
-'a=1'
+phik_matrix_simple(df)
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### 7. Function 7
 This function blablabla
