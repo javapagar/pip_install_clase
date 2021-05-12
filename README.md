@@ -42,8 +42,10 @@ Data cleaning:
  
 Visualization:
 
- - [4.Function 4](#4-Function-4)
- - [5.Function 5](#5-Function-5)
+ - [degrade_color](#degrade_color)
+ - [color_palette](#color_palette)
+ - [pythoneer_palette](#pythoneer_palette)
+ - [color_negative_red](#color_negative_red)
  - [Paleta](#Paleta)
  
 Machine learning:
@@ -80,7 +82,34 @@ This function blablabla
 #### Code Example:
 'a=1'
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
-### 4. Function 4
+### degrade_color
+Create a variable that contains a color map segmented into 255 parts (color degradation).
+#### Params:
+- list_color = hexadecimal color list.
+#### Code Example:
+deg_color = degrade_color(['#0879b1','#FFFFFF','#a61d39'])
+<a href="#index"><p align="right" href="#index">Back to index</p></a>
+### color_palette
+Create a custom color palette and use the names entered as variables in your code. The minimum value of the palette must be three color. 
+ Return:
+- palette_2 = list of the first two colors.
+- palette_3 = list of the first three colors.
+- degrade_palette = variable with the gradient of the first two colors passing through white between the first color and the second.
+#### Params:
+- names = color name list
+- colors = hexadecimal colors list
+- BW = True value if you want to incorporate the color '#F08080' as 'white' and '#000000' as 'black'    
+#### Code Example:
+palette_2, palette_3, degrade_palette = color_palette (['blue','pink','red'],['#0879b1','#c41bab','#a61d39'], BW = True)
+<a href="#index"><p align="right" href="#index">Back to index</p></a>
+### pythoneer_palette
+Color palette predefined by the color blue ('#0879b1') and the color red ('#a61d39').
+#### Params:
+
+#### Code Example:
+'pythoneer, pythoneer_degrade = pythoneer_palette()
+<a href="#index"><p align="right" href="#index">Back to index</p></a>
+### 7. Function 7
 This function blablabla
 #### Params:
  - Param1: blublublu
@@ -88,15 +117,7 @@ This function blablabla
 #### Code Example:
 'a=1'
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
-### 5. Function 5
-This function blablabla
-#### Params:
- - Param1: blublublu
- - Param2: bliblibli
-#### Code Example:
-'a=1'
-<a href="#index"><p align="right" href="#index">Back to index</p></a>
-### Paleta
+### 7. Function 7
 This function blablabla
 #### Params:
  - Param1: blublublu
