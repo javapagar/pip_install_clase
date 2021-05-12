@@ -44,7 +44,7 @@ Visualization:
 
  - [4.Function 4](#4-Function-4)
  - [5.Function 5](#5-Function-5)
- - [6.Function 6](#6-Function-6)
+ - [Paleta](#Paleta)
  
 Machine learning:
 
@@ -96,7 +96,7 @@ This function blablabla
 #### Code Example:
 'a=1'
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
-### 6. Function 6
+### Paleta
 This function blablabla
 #### Params:
  - Param1: blublublu
