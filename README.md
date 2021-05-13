@@ -47,7 +47,8 @@ Visualization:
  - [pythoneer_palette](#pythoneer_palette)
  - [categorical_columns](#categorical_columns)
  - [phik_matrix_simple](#phik_matrix_simple)
- 
+ - [univariant](#univariant)
+
 Machine learning:
 
  - [7.Function 7](#7-Function-7)
@@ -65,6 +66,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### 2. Function 2
 This function blablabla
@@ -73,6 +75,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### 3. Function 3
 This function blablabla
@@ -81,6 +84,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### degrade_color
 Create a variable that contains a color map segmented into 255 parts (color degradation).
@@ -88,6 +92,7 @@ Create a variable that contains a color map segmented into 255 parts (color degr
 - list_color = hexadecimal color list.
 #### Code Example:
 deg_color = degrade_color(['#0879b1','#FFFFFF','#a61d39'])
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### color_palette
 Create a custom color palette and use the names entered as variables in your code. The minimum value of the palette must be three color. 
@@ -101,6 +106,7 @@ Create a custom color palette and use the names entered as variables in your cod
 - BW = True value if you want to incorporate the color '#F08080' as 'white' and '#000000' as 'black'    
 #### Code Example:
 palette_2, palette_3, degrade_palette = color_palette (['blue','pink','red'],['#0879b1','#c41bab','#a61d39'], BW = True)
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### pythoneer_palette
 Color palette predefined by the color blue ('#0879b1') and the color red ('#a61d39').
@@ -108,6 +114,7 @@ Color palette predefined by the color blue ('#0879b1') and the color red ('#a61d
 
 #### Code Example:
 'pythoneer, pythoneer_degrade = pythoneer_palette()
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### categorical_columns
 Create a dataframe with the categorical columns.
@@ -115,6 +122,7 @@ Create a dataframe with the categorical columns.
 - df = dataframe.
 #### Code Example:
 categorical_df = categorical_columns(df)
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### phik_matrix_simple
 Create a Phik Matrix
@@ -122,6 +130,11 @@ Create a Phik Matrix
 - df = dataframe.
 #### Code Example:
 phik_matrix_simple(df)
+
+<a href="#index"><p align="right" href="#index">Back to index</p></a>
+#### univariant
+
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### 7. Function 7
 This function blablabla
@@ -130,6 +143,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### 8. Function 8
 This function blablabla
@@ -138,6 +152,7 @@ This function blablabla
  - Param2: bliblibli
 #### Code Example:
 'a=1'
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### 9. Function 9
 This function blablabla
