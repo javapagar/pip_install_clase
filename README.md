@@ -36,9 +36,11 @@ Clik on any link below to read deeper:
 
 Data cleaning:
 
- - [1.Function 1](#1-Function-1)
- - [2.Function 2](#2-Function-2)
- - [3.Function 3](#3-Function-3)
+ - [num_columns](#num_columns)
+ - [rem_col_nan](#rem_col_nan)
+ - [rem_outliers](#rem_outliers)
+ - [knn_missings](#knn_missings)
+ - [nlp_encoder](#nlp_encoder)
  
 Visualization:
 
@@ -59,31 +61,60 @@ Machine learning:
 
 ### Documentation
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
-### 1. Function 1
-This function blablabla
+
+### num_columns
+This function creates a list with the names of the numeric columns of a dataframe.
+It is also used on rem_outliers and knn_missings functions later.
 #### Params:
- - Param1: blublublu
- - Param2: bliblibli
-#### Code Example:
-'a=1'
+ - df : dataframe
 
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
-### 2. Function 2
-This function blablabla
+### rem_col_nan
+This function removes the columns with more than 30 % NaN, by default.
+The threshold can be be changed through the second param of the function.
 #### Params:
- - Param1: blublublu
- - Param2: bliblibli
-#### Code Example:
-'a=1'
+ - df = dataframe.
+ - per_na = threshold of NaN above which the column will be removed, by default 0.30.
+ - rem_print = prints the list with columns removed.
 
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
-### 3. Function 3
-This function blablabla
+### rem_outliers
+The rows with a value more than 3 z-score, will be removed.
+The z-score indicates if the number is an outlier.
+Z-Score could be changed through the second param of the function.
 #### Params:
- - Param1: blublublu
- - Param2: bliblibli
-#### Code Example:
-'a=1'
+- df = dataframe
+- z_num = limit of z-score to consider an outlier, by default 3.
+- shape_print: print the number of rows removed.
+
+<a href="#index"><p align="right" href="#index">Back to index</p></a>
+### knn_missings
+This function firstly calls the first function above to select the numeric columns of the dataframe and then replace the NaNs through a KNN algorithm.
+The return of the function replace the values on the original dataframe.
+#### Params:
+- df = dataframe.
+- n_ngb = number of neighbors of KNN, by default 3.
+
+<a href="#index"><p align="right" href="#index">Back to index</p></a>
+### nlp_encoder
+This function compiles the most used encoders to have them all easily at hand, uses Sklearn and Pandas tools for its operation and currently has 4 functions
+which are called using their respective encoder.
+1º encoder = labelencoder:
+To use this encoder you must enter the column name that you want to be converted into multiple columns, it can be multiclass.
+2º encoder = binary:
+To use this encoder you must enter the column name that you want to be converted into 2 columns. This column must contain only 2 values, since the contained values are converted only into 0 and 1.
+3º encoder = onehotencoder:
+To use this encoder you must enter the column names that you want to be converted as many columns as there are variables. The function remove the original columns and add the new "variables columns" at the end.
+4º encoder = dummies:
+Similar to One hot encoder, you must enter the column names that you want to be converted as many columns as there are variables. The function remove the original columns and add the new "variables columns" at the end.
+#### Params:
+- df = dataframe.
+- cols = list of columns to be transformed.
+- encoder = select as a string the desired encode to tranform:
+        - labelencoder
+        - binary
+        - onehotencoder
+        - dummies
 
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### degrade_color
