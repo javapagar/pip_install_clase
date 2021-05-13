@@ -157,7 +157,7 @@ Creates a Phik Matrix. The plot can be highly personalized through the params de
 - xticklabels_rot = degrees of rotation of the xticklabels.
 - yticklabels = If True, plot the column names of the dataframe in y-axis. If False, don’t plot the column names. 
 - yticklabels_rot= degrees of rotation of the yticklabels.  
-- 
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### matrix_correlacion_simple
 Creates a correlation matrix.
@@ -191,7 +191,7 @@ Creates a correlation matrix of the target with the rest of the variables in the
 #### Params:
 - df = dataframe.
 - target: name of the target column
-- 
+
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
 ### correlacion_target
 Create a correlation matrix of the target with the rest of the variables which can be highly personalized through the params described below.
