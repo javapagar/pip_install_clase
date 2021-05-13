@@ -132,7 +132,7 @@ Create a Phik Matrix
 phik_matrix_simple(df)
 
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
-#### univariant
+### univariant
 
 
 <a href="#index"><p align="right" href="#index">Back to index</p></a>
